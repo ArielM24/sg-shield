@@ -3,7 +3,7 @@
 	"package": "com.sg.shield.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ShieldMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
