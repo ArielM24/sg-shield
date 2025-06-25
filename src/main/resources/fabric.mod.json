@@ -3,7 +3,7 @@
 	"id": "sg-shield",
 	"version": "${version}",
 	"name": "SG Shield",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple mod to remove the shield delay when blocking",
 	"authors": [
 		"ArielM24"
 	],
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/ArielM24/sg-shield"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sg-shield/icon.png",
+	"icon": "assets/sg-shield/sg-shield.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
